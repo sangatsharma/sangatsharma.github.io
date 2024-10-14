@@ -1,1 +1,1 @@
-# sangatsharma.github.io
+# sangatsharma.github.io/tictactoe
